@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Naveen Kumar 👋
 
-<!--
-**naveenkumarl-dev/naveenkumarl-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automation Developer | Founder of NezFlow Automation
 
-Here are some ideas to get you started:
+I build practical automation systems that help small businesses reduce repetitive work, organise data and save time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+
+* Excel and Google Sheets Automation
+* Interactive Dashboards and Reports
+* Google Apps Script
+* API Integration
+* HTML, CSS and JavaScript
+* Telegram Bot Automation
+* Mobile-Friendly Business Systems
+
+## Projects
+
+### Mobile Order Management System
+
+A mobile-friendly order entry and tracking system with automatic dashboards and secure PIN access.
+
+### Accountant Monthly Report Automation
+
+An Excel-based system for tracking transactions, receivables, payables, monthly summaries and financial KPIs.
+
+### Lead Capture and Telegram Alert Automation
+
+A web form that automatically stores leads in Google Sheets and sends instant Telegram notifications through an API.
+
+## Currently Learning
+
+* Embedded Systems and ESP32
+* IoT and Cloud Integration
+* MQTT and Sensor Monitoring
+* Git and GitHub
+
+## My Goal
+
+To build simple, affordable and reliable automation solutions for small businesses through NezFlow Automation.
